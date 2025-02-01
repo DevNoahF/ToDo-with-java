@@ -1,2 +1,2 @@
-# Gerenciador-de-Tarefas-com-Java
-Um gerenciador de tarefas basico, utilizando Interfaces e herança.
+# Task Manager with java
+A task manager with java, using interface, extends with layered architecture
